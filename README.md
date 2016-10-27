@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###README   
 ### 下载说明
 * 下载插件源代码
@@ -117,3 +118,7 @@
 #####更多插件请点击：[fami2u](https://github.com/fami2u)
 #####关于我们：[FAMI](http://fami2u.com)
 
+=======
+# cordova-plugin-Share
+cordova-plugin-Share
+>>>>>>> 0bace2c0338ad9bcbeb59c87603bb1a9a2542c20
